@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PTSideBarMenu",
+        "repositoryURL": "https://github.com/pankajtalreja2503/PTSideBarMenu.git",
+        "state": {
+          "branch": null,
+          "revision": "ed4a7995e35fe9b6f7460611f4b66c3abe54ad4a",
+          "version": "1.1.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
